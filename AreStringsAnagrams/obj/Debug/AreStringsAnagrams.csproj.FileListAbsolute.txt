@@ -1,0 +1,6 @@
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\AreStringsAnagrams\AreStringsAnagrams\bin\Debug\AreStringsAnagrams.exe.config
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\AreStringsAnagrams\AreStringsAnagrams\obj\Debug\AreStringsAnagrams.csprojResolveAssemblyReference.cache
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\AreStringsAnagrams\AreStringsAnagrams\bin\Debug\AreStringsAnagrams.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\AreStringsAnagrams\AreStringsAnagrams\bin\Debug\AreStringsAnagrams.pdb
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\AreStringsAnagrams\AreStringsAnagrams\obj\Debug\AreStringsAnagrams.exe
+C:\Users\Yasin.YAS-XW4600-2\Documents\VC#\AreStringsAnagrams\AreStringsAnagrams\obj\Debug\AreStringsAnagrams.pdb
